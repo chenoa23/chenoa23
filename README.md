@@ -8,7 +8,7 @@
 [<img align="left" alt="chenoa23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: [https://www.youtube.com/c/osabastufts](https://www.youtube.com/@officialosabas)
+[youtube]: https://www.youtube.com/@officialosabas
 [instagram]: https://www.instagram.com/osabastufts/
 [linkedin]: https://linkedin.com/in/chenoanussberger
 
